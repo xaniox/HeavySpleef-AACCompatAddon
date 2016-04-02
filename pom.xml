@@ -7,10 +7,11 @@
     <groupId>de.xaniox</groupId>
     <artifactId>heavyspleef-aac-compat</artifactId>
     <version>1.0</version>
+    <name>AACCompat</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <addon.finalname>addon_ACCCompat</addon.finalname>
-        <mainClass>de.xaniox.acccompat.ACCCompatAddon</mainClass>
+        <addon.finalname>addon_AACCompat</addon.finalname>
+        <project.mainClass>de.xaniox.aaccompat.AACCompatAddon</project.mainClass>
     </properties>
 
     <build>

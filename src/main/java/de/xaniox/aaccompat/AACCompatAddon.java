@@ -1,4 +1,4 @@
-package de.xaniox.acccompat;
+package de.xaniox.aaccompat;
 
 import de.xaniox.heavyspleef.addon.java.BasicAddOn;
 import de.xaniox.heavyspleef.core.game.Game;
@@ -13,7 +13,7 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.HandlerList;
 import org.bukkit.event.Listener;
 
-public class ACCCompatAddon extends BasicAddOn implements Listener {
+public class AACCompatAddon extends BasicAddOn implements Listener {
 
     @Override
     public void enable() {
